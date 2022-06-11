@@ -1,12 +1,192 @@
 {
   "recentFiles": [
     {
+      "basename": "魔方配色设置说明",
+      "path": "00-Tips/魔方配色设置说明.md"
+    },
+    {
       "basename": "home",
       "path": "88-Template/home.md"
     },
     {
+      "basename": "任务看板",
+      "path": "20-Diary/任务看板.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "彩色时钟",
+      "path": "88-Template/彩色时钟.md"
+    },
+    {
       "basename": "Changlog",
       "path": "Changlog.md"
+    },
+    {
+      "basename": "常用工具react",
+      "path": "88-Template/常用工具react.md"
+    },
+    {
+      "basename": "tp-通用模板",
+      "path": "88-Template/tp-通用模板.md"
+    },
+    {
+      "basename": "三体（全集）",
+      "path": "30-Reading/三体（全集）.md"
+    },
+    {
+      "basename": "让子弹飞（本地封面图片测试）",
+      "path": "30-Reading/让子弹飞（本地封面图片测试）.md"
+    },
+    {
+      "basename": "认知觉醒：开启自我改变的原动力",
+      "path": "30-Reading/认知觉醒：开启自我改变的原动力.md"
+    },
+    {
+      "basename": "白蛇传·情",
+      "path": "30-Reading/白蛇传·情.md"
+    },
+    {
+      "basename": "《如何阅读尼采》",
+      "path": "30-Reading/《如何阅读尼采》.md"
+    },
+    {
+      "basename": "每日一句接口说明",
+      "path": "10-Help/每日一句接口说明.md"
+    },
+    {
+      "basename": "获取插件列表",
+      "path": "10-Help/获取插件列表.md"
+    },
+    {
+      "basename": "Obsidian 快捷键一览表",
+      "path": "10-Help/Obsidian 快捷键一览表.md"
+    },
+    {
+      "basename": "MarkDown教程 Obsidian版 2022.4.22",
+      "path": "10-Help/MarkDown教程 Obsidian版 2022.4.22.md"
+    },
+    {
+      "basename": "Lillian Who Obsidian新手入门教程",
+      "path": "10-Help/Lillian Who Obsidian新手入门教程.md"
+    },
+    {
+      "basename": "Johnny学OB 资料汇总",
+      "path": "10-Help/Johnny学OB 资料汇总.md"
+    },
+    {
+      "basename": "Blue topaz--style setting 插件设置内容 简介",
+      "path": "10-Help/Blue topaz--style setting 插件设置内容 简介.md"
+    },
+    {
+      "basename": "css基础教学",
+      "path": "10-Help/css基础教学.md"
+    },
+    {
+      "basename": "css基础教学",
+      "path": "10-Help/css基础教学.pdf"
+    },
+    {
+      "basename": "10-Help",
+      "path": "10-Help/10-Help.md"
+    },
+    {
+      "basename": "20-Diary",
+      "path": "20-Diary/20-Diary.md"
+    },
+    {
+      "basename": "《Fundamentals of Computer Graphics 5th Edition》",
+      "path": "30-Reading/《Fundamentals of Computer Graphics 5th Edition》.md"
+    },
+    {
+      "basename": "案例进展情况",
+      "path": "20-Diary/案例进展情况.md"
+    },
+    {
+      "basename": "日记统计",
+      "path": "20-Diary/日记统计.md"
+    },
+    {
+      "basename": "query",
+      "path": "20-Diary/query.md"
+    },
+    {
+      "basename": "delete",
+      "path": "20-Diary/delete.md"
+    },
+    {
+      "basename": "2022-W10",
+      "path": "20-Diary/2022-W10.md"
+    },
+    {
+      "basename": "2022-05-18",
+      "path": "20-Diary/2022-05-18.md"
+    },
+    {
+      "basename": "2022-04-28",
+      "path": "20-Diary/2022-04-28.md"
+    },
+    {
+      "basename": "2022-05-02",
+      "path": "20-Diary/2022-05-02.md"
+    },
+    {
+      "basename": "2022-04-02",
+      "path": "20-Diary/2022-04-02.md"
+    },
+    {
+      "basename": "2022-01-25",
+      "path": "20-Diary/2022-01-25.md"
+    },
+    {
+      "basename": "30-Reading",
+      "path": "30-Reading/30-Reading.md"
+    },
+    {
+      "basename": "分栏效果示例",
+      "path": "77-Example/分栏效果示例.md"
+    },
+    {
+      "basename": "涂黑和挖空效果（三种语法）",
+      "path": "77-Example/涂黑和挖空效果（三种语法）.md"
+    },
+    {
+      "basename": "77-Example",
+      "path": "77-Example/77-Example.md"
+    },
+    {
+      "basename": "表格转换-tableconvert",
+      "path": "50-Inbox/表格转换-tableconvert.md"
+    },
+    {
+      "basename": "carbon 代码高亮分享",
+      "path": "50-Inbox/carbon 代码高亮分享.md"
+    },
+    {
+      "basename": "正则表达式验证",
+      "path": "50-Inbox/正则表达式验证.md"
+    },
+    {
+      "basename": "历史上的今天",
+      "path": "50-Inbox/历史上的今天.md"
+    },
+    {
+      "basename": "50-Inbox",
+      "path": "50-Inbox/50-Inbox.md"
+    },
+    {
+      "basename": "ReactJS",
+      "path": "88-Template/ReactJS/ReactJS.md"
+    },
+    {
+      "basename": "明朝那些事儿（全集）",
+      "path": "30-Reading/明朝那些事儿（全集）.md"
+    },
+    {
+      "basename": "从这开始",
+      "path": "从这开始.md"
     },
     {
       "basename": "微信读书清单",
@@ -19,174 +199,6 @@
     {
       "basename": "图书阅读清单(dv)",
       "path": "77-Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md"
-    },
-    {
-      "basename": "◾ Cssclass声明样式举例",
-      "path": "77-Example/◾ Cssclass声明样式举例/◾ Cssclass声明样式举例.md"
-    },
-    {
-      "basename": "Dataview相关实例",
-      "path": "77-Example/Dataview相关实例/Dataview相关实例.md"
-    },
-    {
-      "basename": "◾ TableExample",
-      "path": "77-Example/◾ TableExample/◾ TableExample.md"
-    },
-    {
-      "basename": "全宽显示-表格测试",
-      "path": "77-Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md"
-    },
-    {
-      "basename": "01 - Default Table",
-      "path": "77-Example/◾ TableExample/01 - Default Table.md"
-    },
-    {
-      "basename": "明朝那些事儿（全集）",
-      "path": "30-Reading/明朝那些事儿（全集）.md"
-    },
-    {
-      "basename": "30-Reading",
-      "path": "30-Reading/30-Reading.md"
-    },
-    {
-      "basename": "《从零开始的女性主义》",
-      "path": "30-Reading/《从零开始的女性主义》.md"
-    },
-    {
-      "basename": "《苏联解体亲历记》",
-      "path": "30-Reading/《苏联解体亲历记》.md"
-    },
-    {
-      "basename": "你好，李焕英",
-      "path": "30-Reading/你好，李焕英.md"
-    },
-    {
-      "basename": "77-Example",
-      "path": "77-Example/77-Example.md"
-    },
-    {
-      "basename": "认知觉醒：开启自我改变的原动力",
-      "path": "30-Reading/认知觉醒：开启自我改变的原动力.md"
-    },
-    {
-      "basename": "三体（全集）",
-      "path": "30-Reading/三体（全集）.md"
-    },
-    {
-      "basename": "2022-05-18",
-      "path": "20-Diary/2022-05-18.md"
-    },
-    {
-      "basename": "tp-book-callout",
-      "path": "88-Template/tp-book-callout.md"
-    },
-    {
-      "basename": "tp-movie-douban",
-      "path": "88-Template/tp-movie-douban.md"
-    },
-    {
-      "basename": "88-Template",
-      "path": "88-Template/88-Template.md"
-    },
-    {
-      "basename": "20-Diary",
-      "path": "20-Diary/20-Diary.md"
-    },
-    {
-      "basename": "react_cat",
-      "path": "88-Template/ReactJS/react_cat.md"
-    },
-    {
-      "basename": "react_weather",
-      "path": "88-Template/ReactJS/react_weather.md"
-    },
-    {
-      "basename": "ColorfulClock",
-      "path": "88-Template/ReactJS/ColorfulClock.md"
-    },
-    {
-      "basename": "电影观看清单-状态控制（dvjs）",
-      "path": "77-Example/Dataview相关实例/电影观看清单-状态控制（dvjs）.md"
-    },
-    {
-      "basename": "电影观看清单（dv）",
-      "path": "77-Example/Dataview相关实例/电影观看清单（dv）.md"
-    },
-    {
-      "basename": "99-Attachment",
-      "path": "99-Attachment/99-Attachment.md"
-    },
-    {
-      "basename": "返回当前活动笔记的所有反向链接",
-      "path": "88-Template/ReactJS/返回当前活动笔记的所有反向链接.md"
-    },
-    {
-      "basename": "react_buttons",
-      "path": "88-Template/ReactJS/react_buttons.md"
-    },
-    {
-      "basename": "react_music",
-      "path": "88-Template/ReactJS/react_music.md"
-    },
-    {
-      "basename": "ReactJS",
-      "path": "88-Template/ReactJS/ReactJS.md"
-    },
-    {
-      "basename": "彩色时钟",
-      "path": "88-Template/彩色时钟.md"
-    },
-    {
-      "basename": "timeline callout效果",
-      "path": "77-Example/timeline callout效果.md"
-    },
-    {
-      "basename": "ob提示框(callout)样式展示",
-      "path": "77-Example/ob提示框(callout)样式展示.md"
-    },
-    {
-      "basename": "2022-01-25",
-      "path": "20-Diary/2022-01-25.md"
-    },
-    {
-      "basename": "2022-01-10",
-      "path": "20-Diary/2022-01-10.md"
-    },
-    {
-      "basename": "常用工具",
-      "path": "88-Template/常用工具.md"
-    },
-    {
-      "basename": "10-Help",
-      "path": "10-Help/10-Help.md"
-    },
-    {
-      "basename": "每日一句接口说明",
-      "path": "10-Help/每日一句接口说明.md"
-    },
-    {
-      "basename": "《笔醒山河》",
-      "path": "30-Reading/《笔醒山河》.md"
-    },
-    {
-      "basename": "《镰刀与城市》",
-      "path": "30-Reading/《镰刀与城市》.md"
-    },
-    {
-      "basename": "FastStart-StartupScript",
-      "path": "88-Template/FastStart-StartupScript.md"
-    },
-    {
-      "basename": "最近天气查询",
-      "path": "77-Example/最近天气查询.md"
-    },
-    {
-      "basename": "FastStart-Plugins-simple",
-      "path": "88-Template/FastStart-Plugins-simple.md"
-    },
-    {
-      "basename": "如何在Obsidian中添加电影卡片",
-      "path": "00-Tips/如何在Obsidian中添加电影卡片.md"
     }
   ],
   "omittedPaths": [],

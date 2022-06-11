@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "88-Template/home.md",
+            "file": "00-Tips/魔方配色设置说明.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "88-Template/home.md"
+                "file": "00-Tips/魔方配色设置说明.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "88-Template/home.md",
+                "file": "00-Tips/魔方配色设置说明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "88-Template/home.md",
+                "file": "00-Tips/魔方配色设置说明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,15 +214,15 @@
   },
   "active": "fc371ae36bc5eac7",
   "lastOpenFiles": [
+    "00-Tips/魔方配色设置说明.md",
     "88-Template/home.md",
+    "20-Diary/任务看板.md",
+    "README.md",
+    "88-Template/彩色时钟.md",
     "Changlog.md",
-    "未命名 1.md",
-    "未命名.md",
-    "从目标到工具再到方法，十年产品人的知识管理体系 - 少数派.md",
-    "77-Example/Dataview相关实例/微信读书清单.md",
-    "77-Example/Dataview相关实例/电影看板.md",
-    "77-Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
-    "77-Example/◾ Cssclass声明样式举例/◾ Cssclass声明样式举例.md",
-    "77-Example/Dataview相关实例/Dataview相关实例.md"
+    "88-Template/常用工具react.md",
+    "88-Template/tp-通用模板.md",
+    "30-Reading/三体（全集）.md",
+    "30-Reading/让子弹飞（本地封面图片测试）.md"
   ]
 }

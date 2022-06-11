@@ -523,7 +523,6 @@ mindmap-plugin: basic
 ### 3.5Buttons
 
 #### 是否开启Buttons 特别样式支持
-目前内置class：🔸circle_btn 圆形按钮🔸blank 透明按钮🔸grad_button渐变按钮🟣g_purple 紫色🔵g_blue蓝色🟢g_green 绿色💚g_lightgreen 浅绿🟡g_yellow黄色
 
 ### 3.6Dataview
 
