@@ -2,13 +2,17 @@
 obsidianUIMode: preview
 progress: 正在进行
 title: README
-updated: 2022-05-02 10:00
+updated: 2022-06-09 10:00
 ---
 ## 💡引言
 This Vault  contains the basic functions of Obsidian and has built-in common Obsidian plugins.
 Notice：You need to open this vault with [Obsidian](https://obsidian.md/)
 
+If you feel a little bloated, we recommend downloading the Lite version of the example vault to delete a large number of unnecessary plug-ins, download link
+https://github.com/cumany/Blue-topaz-examples/releases/tag/20220610-lite
 ---
+注意：本示例库包含大量插件目前有七十多个，很多插件都是辅助类插件，可以根据需要删除或者关闭，为了方便初学者，特推出一个简化版示例库删减了大量不必要的插件下载链接
+https://github.com/cumany/Blue-topaz-examples/releases/tag/20220610-lite
 
 本[Examples库](https://github.com/cumany/Blue-topaz-examples)由Cuman建立，Tips教程由[BT主题](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css)作者3F撰写。
 本库是一个包含Obsidian基本功能的入门库，并内置了Obsidian的常用插件。
@@ -171,9 +175,10 @@ ad样式使用方法参考
 1. 如何获取指定地区的天气？
 		主页天气代码默认根据ip地址自动获取，如果手动指定`https://i.tianqi.com/?c=code&id=34&bdc=%23&icon=4&site=14&py=chongqing` chongqing改为你想要的城市拼音即可。
 2. 如何更换字体？
-		打开 style settings设置，2.2.1字体设置，主字体里填写**字体名称**即可。注意如果字体名称有空格需要用单引号括起来。
+   示例库默认配置的主字体为[[LXGWWenKai-Light.ttf]]  代码块字体为[[JetBrainsMono-Regular.ttf]]  可以自行安装，即可自动识别。
+	如果要安装其他字体，打开 style settings设置，2.2.1字体设置，主字体里填写**字体名称**即可。注意如果字体名称有空格需要用单引号括起来。
 		字体需要安装到系统里才会成功调用，比如win系统安装后显示的**字体名称**才是真正的字体名称。
-		![[Pasted image 20220119151051.png]]
+		![[Pasted image 20220119151051.png]] ^d0e999
 3. 如何更换Ob背景图？
 		打开 style settings设置，1.2.1工作页面背景，开启背景，并在custom theme light(亮色主题使用)或者custom theme dark(暗色主题使用)里设置壁纸路径.壁纸路径需要使用类似格式url("app://local/XXXXX)设置本地图片。
 		比如windows图片路径置
@@ -199,7 +204,16 @@ ad样式使用方法参考
 10. 侧边栏悬浮memos 无法打开有错误提示？
 			需要先`ctrl+p` ==>`打开其他库`，然后选择示例库“20-diary”文件夹，打开一次之后，这个悬浮按钮就自动生效。详情看[[Obsidian 库中库玩法#实现]]
 11. 为什么在style setting下切换配色没什么效果？
-
-![[Pasted image 20220429154332.png]]
-注意2.1 里面的颜色设置 是不是有自定义颜色。这里的自定义颜色设置优先级比较高，建议把里面的颜色设置都恢复成默认就可以了。
-
+	![[Pasted image 20220429154332.png]]
+	注意2.1 里面的颜色设置 是不是有自定义颜色。这里的自定义颜色设置优先级比较高，建议把里面的颜色设置都恢复成默认就可以了。
+12. 如何取消开启ob自动加载主页，我想打开ob出现上次关闭时的笔记？
+	打开quickadd设置，宏管理 关闭home工作区的 启动加载选项。
+	![[Pasted image 20220523110336.png]]
+13. 如何移植动画版天气到自己的主页？并获取指定城市天气？
+    直接复制"文字版天气加图标"注释之间的内容，并copy"88-Template/script/dv_weatherSvg.js"   启用【天气】weather.css 样式片段就移植成功了。设置指定地区天气，需要在quickadd宏home工作区中如图设置即可。![[Pasted image 20220531101243.png|400]]
+14. 如何移植动画猫到自己的主页中？
+    跟多彩时钟一样，动画猫也是react组件生成的。需要首先安装react_component插件，并copy`\88-Template\ReactJS\react_cat.md`  这样动画猫代码就生效了。
+    
+## 捐赠
+如果你觉得不错，这个示例库对你使用ob有帮助，可以支持我一下。
+![image|inl|350](https://user-images.githubusercontent.com/42957010/172568261-8a732d3d-303a-4367-993e-23c3efbf62a8.png) ![[Pasted image 20220608162248.png|inl|350]]
